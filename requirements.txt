@@ -1,0 +1,8 @@
+bs4
+pandas
+openpyxl
+requests
+aiohttp
+fake_useragent
+coloredlogs
+
